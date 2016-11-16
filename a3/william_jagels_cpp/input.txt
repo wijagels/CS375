@@ -1,0 +1,15 @@
+180;Binghamton;New York City
+180;Toronto;Kingston
+160;Kingston;Montreal
+140;Albany;New York City
+130;Montreal;Albany
+100;Syracuse;Albany
+100;Toronto;Buffalo
+100;New York City;Scranton
+60;Binghamton;Scranton
+60;Buffalo;Rochester
+65;Scranton;Allentown
+65;Syracuse;Kingston
+70;Allentown;New York City
+70;Rochester;Syracuse
+70;Syracuse;Binghamton
